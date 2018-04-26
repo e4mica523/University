@@ -5,7 +5,7 @@
  */
 
 import java.util.Scanner;
-public class Lab05 {
+public class BMRCalculator {
 
 	public static void main(String[] args)
 	{
