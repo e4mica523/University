@@ -6,7 +6,7 @@
 
 
 import java.util.Scanner;
-public class Lab04
+public class DateChecker
 {
 	public static void main(String[] args)
 	{
