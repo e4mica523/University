@@ -7,7 +7,7 @@
 import java.util.Scanner;
 
 
-public class Lab06 {
+public class GradeProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
